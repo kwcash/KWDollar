@@ -1,0 +1,2 @@
+# KWDollar
+Kilowatt backed money
