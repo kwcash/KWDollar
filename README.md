@@ -1,2 +1,2 @@
-# KWDollar
-Kilowatt backed money
+# KWDollar-master
+ KWDollar
